@@ -10,3 +10,10 @@ The game was originally developed by Allan Alcorn and released in 1972 by Atari 
 Soon, Pong became a huge success, and became the first commercially successful game, on 1975, Atari release a home edition of Pong (the first version was played on Arcade machines) which sold 150,000 units. <br>
 Today, the Pong Game is considered to be the game which started the video games industry, as it proved that the video games market can produce significant revenues.
 </br>
+To Run the Game :-
+<ul>
+  Download the Repo as a Zip from the "Code" Section and extract it.
+  You might want to open the folder in VS Code.
+  Open "Main.py" and Run it.
+  The Game should start in a separate window of its own.
+</ul>
