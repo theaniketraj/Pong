@@ -12,8 +12,8 @@ Today, the Pong Game is considered to be the game which started the video games 
 </br>
 To Run the Game :-
 <ul>
-  Download the Repo as a Zip from the "Code" Section and extract it.
-  You might want to open the folder in VS Code.
-  Open "Main.py" and Run it.
-  The Game should start in a separate window of its own.
+  Download the Repo as a Zip from the "Code" Section and extract it. <br>
+  You might want to open the folder in VS Code. <br>
+  Open "Main.py" and Run it. <br>
+  The Game should start in a separate window of its own. <br>
 </ul>
